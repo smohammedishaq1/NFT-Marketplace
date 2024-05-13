@@ -8,8 +8,7 @@
 
 ## Project Structure:
 
-- `/backend`: Node.js server and MongoDB database.
-- `/frontend`: React.js user interface.
+React.js user interface.
 
 ## Instructions:
 
