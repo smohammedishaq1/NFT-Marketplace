@@ -16,7 +16,7 @@ React.js user interface.
 
 - step 2: npm run start
 
--step 4: install metamask from https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
+- step 4: install metamask from https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
 - step 5: create a account in metamask extension when it opens. and skip the security part when it comes. and close the extension window.
 
