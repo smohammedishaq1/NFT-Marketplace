@@ -24,4 +24,4 @@ React.js user interface.
 
 - step 7: when site open click on metamask icon and it will ask to allow .give permission then metamask will get connected to the site
 
-- step 8:metamask will get connected and now click on my account profile you will see ..
+- step 8:metamask will get connected and now click on my account profile you will see your profile
