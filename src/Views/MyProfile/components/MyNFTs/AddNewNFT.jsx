@@ -310,6 +310,7 @@ function AddNewNFT() {
                 <option value="art">Art</option>
                 <option value="photography">Photography</option>
                 <option value="utility">Utility</option>
+                <option value="utility">Education</option>
               </select>
             </div>
 

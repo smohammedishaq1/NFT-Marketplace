@@ -16,6 +16,7 @@ function Explore() {
     "Photography",
     "utility",
     "gaming",
+    "Education"
   ];
 
   const [searchParams, setSearchParams] = useSearchParams({
