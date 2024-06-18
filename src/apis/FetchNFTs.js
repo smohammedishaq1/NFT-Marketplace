@@ -9,8 +9,7 @@ const fetchAllNFTs = async (search, category, limit) => {
     });
     return response.data;
   } catch (error) {
-    console.log(error);
-  }
+    console.log(error);  }
 };
 
 export { fetchAllNFTs };
